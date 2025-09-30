@@ -1,4 +1,4 @@
-⚠️ **Legal Disclaimer**
+# ⚠️ <u>**Legal Disclaimer**</u>
 
 This Python-based password brute-forcing tool has been developed strictly for educational, research, and authorized cybersecurity training purposes. 
 Its primary purpose is to help users understand how brute-force attacks work, demonstrate the importance of strong password policies, 
